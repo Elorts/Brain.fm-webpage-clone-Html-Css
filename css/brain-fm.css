@@ -1,0 +1,25 @@
+body {
+    background-color: #4c14f5;
+    color: white;
+    font-family: sans-serif;
+}
+
+.horizontal-flexbox {
+    display: flex;
+    align-items: center;
+}
+
+/*input [type='button'] { */
+
+.buttons {
+    background: linear-gradient(to right, #ea9e3d 0%, #e67541 100%);
+    color: white;
+    padding: 13px 25px;
+    font-weight: bold;
+    border: 0px;
+    border-radius: 45%; /*15px; */
+}
+
+a:visited {
+    color: white;
+}
